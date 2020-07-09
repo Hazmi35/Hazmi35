@@ -1,4 +1,5 @@
-# Hello There 👋
+# Hello, World.
+
 Just someone who likes to create useless apps.
 
 <!--
