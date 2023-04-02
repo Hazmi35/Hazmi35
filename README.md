@@ -1,6 +1,6 @@
 # Hello, World.
 
-#### I'm just someone who likes to create useless apps.
+#### Greetings. I'm a Back-end Developer, System Administrator, DevOps Engineer, and Cybersecurity Enthusiast. And most importantly, a Gamer.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
