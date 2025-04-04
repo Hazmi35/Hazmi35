@@ -1,6 +1,6 @@
 # Hello, World!
 
-Greetings. I'm a Software Engineer that usually does Back-end, System Administrator, DevOps Engineer, Cybersecurity Enthusiast, and most importantly, a Gamer.
+Tech nerd. Software Engineer, Backend Developer, Cloud Engineer & DevOps. 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
